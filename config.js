@@ -3,7 +3,7 @@
    Tant que les quatre réglages de contact sont vides, la rubrique Contact et les boutons qui y mènent n'apparaissent pas. */
 window.STOCKCLAIR = {
   // Adresse de la démonstration en ligne (avec la barre oblique finale)
-  demo: "https://nexuxstelar.github.io/rayon-demo-publique/",
+  demo: "https://demo.stockclair.com/",
 
   // Contact
   email: "contact@stockclair.com",        // fait apparaître le formulaire ; reprise dans les pages légales
